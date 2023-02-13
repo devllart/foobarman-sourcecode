@@ -5,6 +5,11 @@
   <img src="./assets/logogame.jpg" alt="Foobarman cli-game"/>
 </p>
 
+## Run and build
+
+run: ```go run ./cmd/app```
+build: ```go build -o ./foobarman ./cmd/app``` 
+
 ## Description
 
 Welcome, this repo with cli-game that show what its like to be a bartender <br>
